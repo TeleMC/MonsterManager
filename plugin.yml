@@ -1,0 +1,26 @@
+name: MonsterManager
+main: Monster\Monster
+version: "1.0"
+author: TeleMC
+api:
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.0
+- 3.1.0
+- 4.0.0
+commands:
+  소환설정:
+    description: 소환
+  스킨:
+    description: 스킨
+  몹청소:
+    description: 몬스터를 슥삭
+  엔티티청소:
+    description: 엔티티를 슥삭
+  소환잠금:
+    description: ㅁㅈㅇ
